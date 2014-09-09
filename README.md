@@ -1,0 +1,2 @@
+# A Gossip Framework and Libraries
+This is a gossip library implemented in golang. I'm going to implement a gossip framework and several gossip protocols, such as Bimodal Multicast, Cyclon, HyParView and so on, that based on it.
